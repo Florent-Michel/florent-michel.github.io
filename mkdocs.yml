@@ -1,8 +1,7 @@
-site_name: "Florent MICHEL"
 theme:
   name: material
   palette:
-    # Mode clair par défaut
+    # Mode clair
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
@@ -17,3 +16,4 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Passer au mode clair
+site_name: "Florent MICHEL"
