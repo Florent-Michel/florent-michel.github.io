@@ -1,0 +1,19 @@
+site_name: "Florent MICHEL"
+theme:
+  name: material
+  palette:
+    # Mode clair par défaut
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Passer au mode sombre
+
+    # Mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Passer au mode clair
