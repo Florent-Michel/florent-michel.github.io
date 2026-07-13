@@ -11,3 +11,6 @@ theme:
         name: Passer au mode clair
   features:
     - navigation.tabs  # Transforme la navigation en onglets en haut
+nav:
+  - Galois :
+    - Galois 1 : galois/galois1.md
