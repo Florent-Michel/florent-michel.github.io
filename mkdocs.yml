@@ -1,3 +1,4 @@
+site_name: "Florent MICHEL"
 theme:
   name: material
   palette:
@@ -16,4 +17,3 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Passer au mode clair
-site_name: "Florent MICHEL"
