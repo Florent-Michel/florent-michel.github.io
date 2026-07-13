@@ -1,7 +1,7 @@
 /* Agrandi le logo dans la barre de navigation */
 .md-header__button.md-logo img, 
 .md-header__button.md-logo svg {
-    height: 50px; /* Ajustez cette valeur (par défaut, elle est de 24px) */
+    height: 100px; /* Ajustez cette valeur (par défaut, elle est de 24px) */
     width: auto;  /* Conserve les proportions d'origine */
 }
 
