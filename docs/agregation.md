@@ -47,14 +47,14 @@ Voici ma liste de développements pour l'agrégation externe de mathématiques 2
 | **205** | Conjugaison dans un groupe. Exemples de sous-groupes distingués et de groupes quotients. Applications. | Théorème de Riesz-Fischer | Projection sur un convexe fermé|
 | **206** | Groupes finis. Exemples et applications. | Equivalence des normes et théorème de Riesz | Théorème des extrema liés|
 | **208** | Groupe des permutations d'un enemble fini. Applications. | Equivalence des normes et théorème de Riesz | Projection sur un convexe fermé|
-| **209** | Groupe linéaire d'un espace vectoriel de dimension finie E, sous-groupes de GL(E). Applications. | Théorème de Burnside | $SO_3(\mathbb R)$ est simple|
-| **213** | Exemples de parties génératrices d'un groupe. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | $A_n$ est simple|
-| **214** | Anneaux Z/nZ. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | Théorème chinois et calcul de $\varphi(n)$|
-| **215** | Nombres premiers. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | Loi de réciprocité quadratique|
-| **218** | Anneaux principaux. Exemples et applications. | Théorème des deux carés | Théorème chinois et calcul de $\varphi(n)$|
-| **219** | Corps finis. Applications. | Nombre d'irréductibles de $F_q[X]$ | Loi de réciprocité quadratique|
-| **220** | Extensions de corps. Exemples et applications. | Nombre d'irréductibles de $F_q[X]$ | Irréductibilité des polynômes cyclotomiques|
-| **221** | Exemples de nombres remarquables. Exemples d'anneaux de nombres remarquables. Applications. | Théorème des deux carés | Irréductibilité des polynômes cyclotomiques|
+| **209** | Groupe linéaire d'un espace vectoriel de dimension finie E, sous-groupes de GL(E). Applications. | Inversion de Fourier $L^1$ | Théorème de Weierstrass et vitesse de convergence des polynômes de Bernstein|
+| **213** | Exemples de parties génératrices d'un groupe. Applications. | Une fonction continue convexe coercive dans un Hilbert admet un minimum | Projection sur un convexe fermé|
+| **214** | Anneaux Z/nZ. Applications. | Théorème des extrema liés | Surjectivité de l'exponentielle dans $GL_n(\mathbb C)$|
+| **215** | Nombres premiers. Applications. | Theorème des extrema liés | Différentielle du déterminant et application au wronskien|
+| **218** | Anneaux principaux. Exemples et applications. | Méthode de Newton | Méthode de Laplace|
+| **219** | Corps finis. Applications. | Théorème des extrema liés | Projection sur un convexe fermé|
+| **220** | Extensions de corps. Exemples et applications. | Impasse | Impasse|
+| **221** | Exemples de nombres remarquables. Exemples d'anneaux de nombres remarquables. Applications. | Impasse | Impasse|
 | **223** | Polynômes irréductibles à une indéterminée. Corps de rupture. Exemples et applications. | Nombre d'irréductibles de $F_q[X]$ | Irréductibilité des polynômes cyclotomiques|
 | **224** | PGCD et PPCM, algorithmes de calcul. Applications. | 26 est l'unique entier entre un cube et un carré | Théorème chinois et calcul de $\varphi(n)$|
 | **226** | Racines d'un polynôme. Fonctions symétriques élémentaires. Exemples et applications. | Théorème de Kronecker et sous-groupes finis de $GL_n(\mathbb Z)$ | Irréductibilité des polynômes cyclotomiques|
