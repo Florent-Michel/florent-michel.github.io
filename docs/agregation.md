@@ -25,11 +25,11 @@ Voici ma liste de développements pour l'agrégation externe de mathématiques 2
 | **151** | Sous-espaces stables par un endomorphisme ou une famille d'endomorphismes d'un espace vectoriel de dimension finie. Applications. | Réduction de Frobenius | Réduction des endomorphismes normaux|
 | **152** | Endomorphismes diagonalisables en dimension finie. | $exp:S_n(\mathbb R)\to S_n^{++}(\mathbb R)$ est un homéomorphisme | Matrices circulantes et suite de polygones|
 | **153** | Valeurs propres, vecteurs propres. Calculs exacts ou approchés d’éléments propres. Applications. | Théorème de Householder et convergence des méthodes itératives | Matrices circulantes et suite de polygones|
-| **155** | Exponentielle de matrices. Applications. | $exp:S_n(\mathbb R)\to S_n^{++}(\mathbb R)$ est un homéomorphisme | Surjectivité de l'exponentielle dans $M_n(\mathbb C)$|
+| **155** | Exponentielle de matrices. Applications. | $exp:S_n(\mathbb R)\to S_n^{++}(\mathbb R)$ est un homéomorphisme | Surjectivité de l'exponentielle dans $GL_n(\mathbb C)$|
 | **156** | Endomorphismes trigonalisables. Endomorphismes nilpotents. | Théorème de Burnside | Décomposition de Dunford effective|
 | **157** | Matrices symétriques réelles, matrices hermitiennes. | $exp:S_n(\mathbb R)\to S_n^{++}(\mathbb R)$ est un homéomorphisme | Réduction des endomorphismes normaux|
 | **158** | Endomorphismes remarquables d'un espace vectoriel euclidien (de dimension finie). | $exp:S_n(\mathbb R)\to S_n^{++}(\mathbb R)$ est un homéomorphisme | Réduction des endomorphismes normaux|
-| **159** | Formes linéaires et dualité en dimension finie. Exemples et applications. | Réduction de Frobenius | Théorème des extremas liés|
+| **159** | Formes linéaires et dualité en dimension finie. Exemples et applications. | Réduction de Frobenius | Théorème des extrema liés|
 | **161** | Espaces vectoriels et espaces affines euclidiens : distances, isométries. | Déterminant de Gram et inégalité de Hadamard | $SO_3(\mathbb R)$ est simple|
 | **162** | Systèmes d'équations linéaires ; opérations élémentaires, aspects algorithmiques et conséquences théoriques. | Théorème de Householder et convergence des méthodes itératives | La dimension du commutant est au moins n|
 | **170** |Formes quadratiques sur un espace vectoriel de dimension finie. Orthogonalité. Applications. | Réduction des formes quadratiques | Loi de réciprocité quadratique|
@@ -41,12 +41,12 @@ Voici ma liste de développements pour l'agrégation externe de mathématiques 2
 # Analyse
 | N° | Intitulé de la leçon | Développement 1 | Développement 2 |
 | :-: | :--- | :----- | :----- |
-| **201** | Groupe opérant sur un ensemble. Exemples et applications. | Théorèmes de Sylow | Isométries du cube et coloriages|
-| **203** | Groupe des nombres complexes de module 1. Racines de l'unité. Applications. | Irréductibilité des polynômes cyclotomiques | Matrices circulantes et suite de polygones|
-| **204** | Exemples d'utilisation des techniques d'algèbre en géométrie. | Déterminant de Gram et inégalité de Hadamard | Matrices circulantes et suite de polygones|
-| **205** | Conjugaison dans un groupe. Exemples de sous-groupes distingués et de groupes quotients. Applications. | Théorèmes de Sylow | $A_n$ est simple|
-| **206** | Groupes finis. Exemples et applications. | Théorèmes de Sylow | $A_n$ est simple|
-| **208** | Groupe des permutations d'un enemble fini. Applications. | Isométries du cube et coloriages | $A_n$ est simple|
+| **201** | Groupe opérant sur un ensemble. Exemples et applications. | Théorème de Riesz-Fischer | Théorème de Weierstrass et vitesse de convergence des polynômes de Bernstein|
+| **203** | Equivalence des normes et théorème de Riesz | Lemme de la Grenouille et application aux suites récurrentes|
+| **204** | Surjectivité de l'exponentielle dans $GL_n(\mathbb C)$ | Lemme de la Grenouille et application aux suites récurrentes|
+| **205** | Conjugaison dans un groupe. Exemples de sous-groupes distingués et de groupes quotients. Applications. | Théorème de Riesz-Fischer | Projection sur un convexe fermé|
+| **206** | Groupes finis. Exemples et applications. | Equivalence des normes et théorème de Riesz | Théorème des extrema liés|
+| **208** | Groupe des permutations d'un enemble fini. Applications. | Equivalence des normes et théorème de Riesz | Projection sur un convexe fermé|
 | **209** | Groupe linéaire d'un espace vectoriel de dimension finie E, sous-groupes de GL(E). Applications. | Théorème de Burnside | $SO_3(\mathbb R)$ est simple|
 | **213** | Exemples de parties génératrices d'un groupe. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | $A_n$ est simple|
 | **214** | Anneaux Z/nZ. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | Théorème chinois et calcul de $\varphi(n)$|
