@@ -6,3 +6,6 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: default
       primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Passer au mode clair
