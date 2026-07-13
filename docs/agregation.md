@@ -1,4 +1,4 @@
-Voici ma liste de développements pour l'agrégation externe de mathématiques 2026 :
+Voici ma liste de développements pour l'agrégation externe de mathématiques 2026, ainsi que la [feuille de calcul](https://docs.google.com/spreadsheets/d/1z6wrBjyRybZ39HGdmUlBGsYB7ANio2i_UQ0iwCxRPGI/edit?gid=460522433#gid=460522433) dont je me suis servi.
 
 # Algèbre
 | N° | Intitulé de la leçon | Développement 1 | Développement 2 |
