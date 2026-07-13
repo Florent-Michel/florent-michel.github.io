@@ -1,6 +1,7 @@
 site_name: "Florent MICHEL"
 theme:
   name: material
+  custom_dir: overrides
   logo: images/galois.jpg
   font:
     text: Roboto      # Police pour le texte classique (ex: Roboto, Fira Sans, Open Sans)
