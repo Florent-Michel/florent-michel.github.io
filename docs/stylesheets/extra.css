@@ -12,3 +12,19 @@
     padding-top: 2px;
     padding-bottom: 2px;
 }
+
+/* Force le conteneur du tableau à prendre toute la largeur */
+.md-typeset__table {
+    width: 100%;
+}
+
+/* Force l'élément table lui-même à s'étirer sur 100% de son conteneur */
+.md-typeset__table table:not([class]) {
+    display: table;
+    width: 100%;
+}
+
+/* Augmente la largeur maximale de la grille de contenu (par défaut ~1200px) */
+.md-grid {
+    max-width: 85rem; /* Augmentez cette valeur selon vos besoins (ex: 90rem, 100rem ou 100%) */
+}
