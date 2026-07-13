@@ -29,3 +29,5 @@ nav:
     - Introduction: galois/introduction.md
   - Colles: colles.md
   - Sites amis: sites_amis.md
+extra:
+  generator: false
