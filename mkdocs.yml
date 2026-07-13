@@ -24,7 +24,7 @@ theme:
 nav:
   - Accueil: index.md
   - Seconde:
-    - Trinôme du second degré: seconde/second_degre.md
+    - Trinômes du second degré: seconde/second_degre.md
     - Vecteurs: seconde/vecteurs.md
   - Colles: colles.md
   - Agrégation: agregation.md
