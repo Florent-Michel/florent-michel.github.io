@@ -7,8 +7,8 @@
 
 /* Optionnel : Supprime les marges excessives si le logo est très grand */
 .md-header__button.md-logo {
-    margin-top: 4px;
-    margin-bottom: 4px;
-    padding-top: 4px;
-    padding-bottom: 4px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
