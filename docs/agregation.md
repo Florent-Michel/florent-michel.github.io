@@ -55,23 +55,23 @@ Voici ma liste de développements pour l'agrégation externe de mathématiques 2
 | **219** | Corps finis. Applications. | Théorème des extrema liés | Projection sur un convexe fermé|
 | **220** | Extensions de corps. Exemples et applications. | Impasse | Impasse|
 | **221** | Exemples de nombres remarquables. Exemples d'anneaux de nombres remarquables. Applications. | Impasse | Impasse|
-| **223** | Polynômes irréductibles à une indéterminée. Corps de rupture. Exemples et applications. | Nombre d'irréductibles de $F_q[X]$ | Irréductibilité des polynômes cyclotomiques|
-| **224** | PGCD et PPCM, algorithmes de calcul. Applications. | 26 est l'unique entier entre un cube et un carré | Théorème chinois et calcul de $\varphi(n)$|
-| **226** | Racines d'un polynôme. Fonctions symétriques élémentaires. Exemples et applications. | Théorème de Kronecker et sous-groupes finis de $GL_n(\mathbb Z)$ | Irréductibilité des polynômes cyclotomiques|
-| **228** | Dimension d'un espace vectoriel (on se limitera au cas de la dimension finie). Rang. Exemples et applications. | Réduction de Frobenius | Réduction des endomorphismes normaux|
-| **229** | Déterminant. Exemples et applications. | Déterminant de Gram et inégalité de Hadamard | Différentielle du déterminant et application au wronskien|
-| **230** | Polynômes d'endomorphisme en dimension finie. Réduction d'un endomorphisme en dimension finie. Applications. | Réduction de Frobenius | Décomposition de Dunford effective|
-| **234** | Sous-espaces stables par un endomorphisme ou une famille d'endomorphismes d'un espace vectoriel de dimension finie. Applications. | Réduction de Frobenius | Réduction des endomorphismes normaux|
-| **235** | Endomorphismes diagonalisables en dimension finie. | $exp:S_n(\mathbb R)\to S_n^{++}(\mathbb R)$ est un homéomorphisme | Matrices circulantes et suite de polygones|
-| **236** | Valeurs propres, vecteurs propres. Calculs exacts ou approchés d’éléments propres. Applications. | Théorème de Householder et convergence des méthodes itératives | Matrices circulantes et suite de polygones|
-| **239** | Exponentielle de matrices. Applications. | $exp:S_n(\mathbb R)\to S_n^{++}(\mathbb R)$ est un homéomorphisme | Surjectivité de l'exponentielle dans $M_n(\mathbb C)$|
-| **241** | Endomorphismes trigonalisables. Endomorphismes nilpotents. | Théorème de Burnside | Décomposition de Dunford effective|
-| **243** | Matrices symétriques réelles, matrices hermitiennes. | $exp:S_n(\mathbb R)\to S_n^{++}(\mathbb R)$ est un homéomorphisme | Réduction des endomorphismes normaux|
-| **245** | Endomorphismes remarquables d'un espace vectoriel euclidien (de dimension finie). | $exp:S_n(\mathbb R)\to S_n^{++}(\mathbb R)$ est un homéomorphisme | Réduction des endomorphismes normaux|
-| **246** | Formes linéaires et dualité en dimension finie. Exemples et applications. | Réduction de Frobenius | Théorème des extremas liés|
-| **250** | Espaces vectoriels et espaces affines euclidiens : distances, isométries. | Déterminant de Gram et inégalité de Hadamard | $SO_3(\mathbb R)$ est simple|
-| **253** | Systèmes d'équations linéaires ; opérations élémentaires, aspects algorithmiques et conséquences théoriques. | Théorème de Householder et convergence des méthodes itératives | La dimension du commutant est au moins n|
-| **261** |Formes quadratiques sur un espace vectoriel de dimension finie. Orthogonalité. Applications. | Réduction des formes quadratiques | Loi de réciprocité quadratique|
-| **262** | Formes quadratiques réelles. Coniques. Exemples et applications. | Impasse | Impasse|
-| **264** | Convexité dans R^n. Applications en algèbre et en géométrie. | Impasse | Impasse|
-| **266** | Méthodes combinatoires, problèmes de dénombrement.  | Nombre d'irréductibles de $F_q[X]$ | Loi de réciprocité quadratique|
+| **223** | Polynômes irréductibles à une indéterminée. Corps de rupture. Exemples et applications. | Méthode de Newton | Lemme de la grenouille et application aux suites récurrentes|
+| **224** | PGCD et PPCM, algorithmes de calcul. Applications. | Développement asymptotique de la série harmonique et application | Méthode de Laplace|
+| **226** | Racines d'un polynôme. Fonctions symétriques élémentaires. Exemples et applications. | Méthode de Newton | Processus de Galton-Watson|
+| **228** | Dimension d'un espace vectoriel (on se limitera au cas de la dimension finie). Rang. Exemples et applications. | Méthode de Newton | Théorèmes de Heine et de Weierstrass|
+| **229** | Déterminant. Exemples et applications. | Méthode de Newton | Processus de Galton-Watson |
+| **230** | Polynômes d'endomorphisme en dimension finie. Réduction d'un endomorphisme en dimension finie. Applications. | Développement asymptotique de la série harmonique et application | Loi Zeta, produit eulérien et divergence des inverses des nombres premiers|
+| **234** | Sous-espaces stables par un endomorphisme ou une famille d'endomorphismes d'un espace vectoriel de dimension finie. Applications. | Théorème de Riesz-Fischer | Inversion de Fourier $L^1$|
+| **235** | Endomorphismes diagonalisables en dimension finie. | Intégrale de Dirichlet |Inversion de Fourier $L^1$|
+| **236** | Valeurs propres, vecteurs propres. Calculs exacts ou approchés d’éléments propres. Applications. | Formule des compléments | Inversion de Fourier $L^1$|
+| **239** | Exponentielle de matrices. Applications. | Intégrale de Dirichlet |Inversion de Fourier $L^1$|
+| **241** | Endomorphismes trigonalisables. Endomorphismes nilpotents. | Théorème d'Abel angulaire et application | Théorème de Weiertrass et vitesse de convergence des polynômes de Bernstein|
+| **243** | Matrices symétriques réelles, matrices hermitiennes. | Théorème d'Abel angulaire et application | Analycité des fonctions holomorphes|
+| **245** | Endomorphismes remarquables d'un espace vectoriel euclidien (de dimension finie). | Formule des compléments | Analycité des fonctions holomorphes|
+| **246** | Formes linéaires et dualité en dimension finie. Exemples et applications. | Théorème de Fejer | Théorème de Banach-Steinhaus et série de Fourier divergente|
+| **250** | Espaces vectoriels et espaces affines euclidiens : distances, isométries. | Théorème de Lévy et TCL | Inversion de Fourier $L^1$|
+| **253** | Systèmes d'équations linéaires ; opérations élémentaires, aspects algorithmiques et conséquences théoriques. | Une fonction continue convexe coercive dans un Hilbert admet un minimum | Projection sur un convexe fermé|
+| **261** |Formes quadratiques sur un espace vectoriel de dimension finie. Orthogonalité. Applications. | Théorème de Lévy et TCL | Inégalité de Hoeffding et intervalle de confiance|
+| **262** | Formes quadratiques réelles. Coniques. Exemples et applications. | Théorème de Lévy et TCL | Inégalité de Hoeffding et application à la convergence presque sûre|
+| **264** | Convexité dans R^n. Applications en algèbre et en géométrie. | Théorème de Weiertrass et vitesse de convergence des polynômes de Bernstein | Processus de Galton-Watson|
+| **266** | Méthodes combinatoires, problèmes de dénombrement.  | Loi Zeta, produit eulérien et divergence des inverses des nombres premiers | Inégalité de Hoeffding et application à la convergence presque sûre|
