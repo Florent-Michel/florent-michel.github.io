@@ -1,8 +1,7 @@
 site_name: "Florent MICHEL"
-logo: images/fourier.jpg
 theme:
   name: material
-  custom_dir: overrides
+  logo: images/fourier.jpg
   palette:
     # Mode clair
     - media: "(prefers-color-scheme: light)"
