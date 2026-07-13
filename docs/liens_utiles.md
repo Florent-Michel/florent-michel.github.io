@@ -4,4 +4,8 @@ Quelques sites de camarades agrégés :
 * Site de [Louis Lascaud](https://louis-lascaud.github.io/l-lscd-mathematiques/), doctorant en mathématiques à ???.
 * Site de Romain Delaunay, camarade et algébriste.
 
+Quelques documents sur la théorie de Galois supposément accessibles en prépa :
+de Christophe Bertault
+de Nicolas Tosel
+
 Mon [profil](https://bleau.info/profiles/florent.michel) bleau.info
