@@ -21,5 +21,7 @@ theme:
     - navigation.tabs  # Transforme la navigation en onglets en haut
 nav:
   - Accueil: index.md
+  - Seconde:
+    - Suites récurrentes: seconde/suites_recurrentes.md
   - Galois:
     - Introduction: galois/galois1.md
