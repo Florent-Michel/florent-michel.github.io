@@ -27,3 +27,11 @@ Voici ma liste de développements pour l'agrégation externe de mathématique 20
 | **155** | Groupe opérant sur un ensemble. Exemples. | $exp:S_n(\mathbb R)\to S_n^{++}(\mathbb R)$ est un homéomorphisme | Surjectivité de l'exponentielle dans $M_n(\mathbb C)$|
 | **156** | Groupe opérant sur un ensemble. Exemples. | Théorème de Burnside | Décomposition de Dunford effective|
 | **157** | Groupe opérant sur un ensemble. Exemples. | $exp:S_n(\mathbb R)\to S_n^{++}(\mathbb R)$ est un homéomorphisme | Réduction des endomorphismes normaux|
+| **158** | Groupe opérant sur un ensemble. Exemples. | $exp:S_n(\mathbb R)\to S_n^{++}(\mathbb R)$ est un homéomorphisme | Réduction des endomorphismes normaux|
+| **159** | Groupe opérant sur un ensemble. Exemples. | Réduction de Frobenius | Théorème des extremas liés|
+| **161** | Groupe opérant sur un ensemble. Exemples. | Déterminant de Gram et inégalité de Hadamard | $SO_3(\mathbb R)$ est simple|
+| **170** | Groupe opérant sur un ensemble. Exemples. | Réduction des formes quadratiques | Loi de réciprocité quadratique|
+| **171** | Groupe opérant sur un ensemble. Exemples. | Impasse | Impasse|
+| **181** | Groupe opérant sur un ensemble. Exemples. | Impasse | Impasse|
+| **190** | Groupe opérant sur un ensemble. Exemples. | Nombre d'irréductibles de $F_q[X]$ | Loi de réciprocité quadratique|
+| **191** | Groupe opérant sur un ensemble. Exemples. | Déterminant de Gram et inégalité de Hadamard | Matrices circulantes et suite de polygones|
