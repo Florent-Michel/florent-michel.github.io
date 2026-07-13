@@ -25,9 +25,8 @@ nav:
   - Accueil: index.md
   - Seconde:
     - Suites récurrentes: seconde/suites_recurrentes.md
-  - Galois:
-    - Introduction: galois/introduction.md
   - Colles: colles.md
+  - Agrégation: agregation.md
   - Liens utiles: liens_utiles.md
 extra:
   generator: false
