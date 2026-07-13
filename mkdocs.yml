@@ -18,7 +18,8 @@ theme:
         icon: material/brightness-4
         name: Passer au mode clair
   features:
-    - navigation.tabs  # Transforme la navigation en onglets en haut
+    - navigation.tabs           # Active la barre de menu en haut
+    - navigation.tabs.sticky    # Garde le menu en haut même quand on descend
 nav:
   - Accueil: index.md
   - Seconde:
