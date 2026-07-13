@@ -1,4 +1,5 @@
 site_name: "Florent MICHEL"
+logo: images/fourier.jpg
 theme:
   name: material
   custom_dir: overrides
