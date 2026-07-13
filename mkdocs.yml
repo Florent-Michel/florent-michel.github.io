@@ -24,7 +24,8 @@ theme:
 nav:
   - Accueil: index.md
   - Seconde:
-    - Suites récurrentes: seconde/suites_recurrentes.md
+    - Trinôme du second degré: seconde/second_degre.md
+    - Vecteurs: seconde/vecteurs.md
   - Colles: colles.md
   - Agrégation: agregation.md
   - Liens utiles: liens_utiles.md
