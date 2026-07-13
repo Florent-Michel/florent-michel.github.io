@@ -2,6 +2,9 @@ site_name: "Florent MICHEL"
 theme:
   name: material
   logo: images/galois.jpg
+  font:
+    text: Roboto      # Police pour le texte classique (ex: Roboto, Fira Sans, Open Sans)
+    code: Roboto Mono # Police pour les blocs de code et algorithmes
   palette:
     # Mode clair
     - media: "(prefers-color-scheme: light)"
