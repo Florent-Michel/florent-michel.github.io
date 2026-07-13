@@ -41,37 +41,37 @@ Voici ma liste de développements pour l'agrégation externe de mathématiques 2
 # Analyse
 | N° | Intitulé de la leçon | Développement 1 | Développement 2 |
 | :-: | :--- | :----- | :----- |
-| **201** | Groupe opérant sur un ensemble. Exemples et applications. | Théorème de Riesz-Fischer | Théorème de Weierstrass et vitesse de convergence des polynômes de Bernstein|
-| **203** | Equivalence des normes et théorème de Riesz | Lemme de la Grenouille et application aux suites récurrentes|
-| **204** | Surjectivité de l'exponentielle dans $GL_n(\mathbb C)$ | Lemme de la Grenouille et application aux suites récurrentes|
-| **205** | Conjugaison dans un groupe. Exemples de sous-groupes distingués et de groupes quotients. Applications. | Théorème de Riesz-Fischer | Projection sur un convexe fermé|
-| **206** | Groupes finis. Exemples et applications. | Equivalence des normes et théorème de Riesz | Théorème des extrema liés|
-| **208** | Groupe des permutations d'un enemble fini. Applications. | Equivalence des normes et théorème de Riesz | Projection sur un convexe fermé|
-| **209** | Groupe linéaire d'un espace vectoriel de dimension finie E, sous-groupes de GL(E). Applications. | Inversion de Fourier $L^1$ | Théorème de Weierstrass et vitesse de convergence des polynômes de Bernstein|
-| **213** | Exemples de parties génératrices d'un groupe. Applications. | Une fonction continue convexe coercive dans un Hilbert admet un minimum | Projection sur un convexe fermé|
-| **214** | Anneaux Z/nZ. Applications. | Théorème des extrema liés | Surjectivité de l'exponentielle dans $GL_n(\mathbb C)$|
-| **215** | Nombres premiers. Applications. | Theorème des extrema liés | Différentielle du déterminant et application au wronskien|
-| **218** | Anneaux principaux. Exemples et applications. | Méthode de Newton | Méthode de Laplace|
-| **219** | Corps finis. Applications. | Théorème des extrema liés | Projection sur un convexe fermé|
-| **220** | Extensions de corps. Exemples et applications. | Impasse | Impasse|
-| **221** | Exemples de nombres remarquables. Exemples d'anneaux de nombres remarquables. Applications. | Impasse | Impasse|
-| **223** | Polynômes irréductibles à une indéterminée. Corps de rupture. Exemples et applications. | Méthode de Newton | Lemme de la grenouille et application aux suites récurrentes|
-| **224** | PGCD et PPCM, algorithmes de calcul. Applications. | Développement asymptotique de la série harmonique et application | Méthode de Laplace|
-| **226** | Racines d'un polynôme. Fonctions symétriques élémentaires. Exemples et applications. | Méthode de Newton | Processus de Galton-Watson|
-| **228** | Dimension d'un espace vectoriel (on se limitera au cas de la dimension finie). Rang. Exemples et applications. | Méthode de Newton | Théorèmes de Heine et de Weierstrass|
-| **229** | Déterminant. Exemples et applications. | Méthode de Newton | Processus de Galton-Watson |
-| **230** | Polynômes d'endomorphisme en dimension finie. Réduction d'un endomorphisme en dimension finie. Applications. | Développement asymptotique de la série harmonique et application | Loi Zeta, produit eulérien et divergence des inverses des nombres premiers|
-| **234** | Sous-espaces stables par un endomorphisme ou une famille d'endomorphismes d'un espace vectoriel de dimension finie. Applications. | Théorème de Riesz-Fischer | Inversion de Fourier $L^1$|
-| **235** | Endomorphismes diagonalisables en dimension finie. | Intégrale de Dirichlet |Inversion de Fourier $L^1$|
-| **236** | Valeurs propres, vecteurs propres. Calculs exacts ou approchés d’éléments propres. Applications. | Formule des compléments | Inversion de Fourier $L^1$|
-| **239** | Exponentielle de matrices. Applications. | Intégrale de Dirichlet |Inversion de Fourier $L^1$|
-| **241** | Endomorphismes trigonalisables. Endomorphismes nilpotents. | Théorème d'Abel angulaire et application | Théorème de Weiertrass et vitesse de convergence des polynômes de Bernstein|
-| **243** | Matrices symétriques réelles, matrices hermitiennes. | Théorème d'Abel angulaire et application | Analycité des fonctions holomorphes|
-| **245** | Endomorphismes remarquables d'un espace vectoriel euclidien (de dimension finie). | Formule des compléments | Analycité des fonctions holomorphes|
-| **246** | Formes linéaires et dualité en dimension finie. Exemples et applications. | Théorème de Fejer | Théorème de Banach-Steinhaus et série de Fourier divergente|
-| **250** | Espaces vectoriels et espaces affines euclidiens : distances, isométries. | Théorème de Lévy et TCL | Inversion de Fourier $L^1$|
-| **253** | Systèmes d'équations linéaires ; opérations élémentaires, aspects algorithmiques et conséquences théoriques. | Une fonction continue convexe coercive dans un Hilbert admet un minimum | Projection sur un convexe fermé|
-| **261** |Formes quadratiques sur un espace vectoriel de dimension finie. Orthogonalité. Applications. | Théorème de Lévy et TCL | Inégalité de Hoeffding et intervalle de confiance|
-| **262** | Formes quadratiques réelles. Coniques. Exemples et applications. | Théorème de Lévy et TCL | Inégalité de Hoeffding et application à la convergence presque sûre|
-| **264** | Convexité dans R^n. Applications en algèbre et en géométrie. | Théorème de Weiertrass et vitesse de convergence des polynômes de Bernstein | Processus de Galton-Watson|
-| **266** | Méthodes combinatoires, problèmes de dénombrement.  | Loi Zeta, produit eulérien et divergence des inverses des nombres premiers | Inégalité de Hoeffding et application à la convergence presque sûre|
+| **201** | Espaces de fonctions. Exemples et applications. | Théorème de Riesz-Fischer | Théorème de Weierstrass et vitesse de convergence des polynômes de Bernstein|
+| **203** | Utilisation de la notion de compacité. | Equivalence des normes et théorème de Riesz | Lemme de la Grenouille et application aux suites récurrentes|
+| **204** | Connexité. Exemples d'applications. | Surjectivité de l'exponentielle dans $GL_n(\mathbb C)$ | Lemme de la Grenouille et application aux suites récurrentes|
+| **205** | Espaces complets. Exemples et applications. | Théorème de Riesz-Fischer | Projection sur un convexe fermé|
+| **206** | Exemples d'utilisation de la dimension finie en analyse. | Equivalence des normes et théorème de Riesz | Théorème des extrema liés|
+| **208** | Espaces vectoriels normés, applications linéaires continues. Exemples. | Equivalence des normes et théorème de Riesz | Projection sur un convexe fermé|
+| **209** | Approximation d'une fonction par des fonctions régulières. Exemples d'applications. | Inversion de Fourier $L^1$ | Théorème de Weierstrass et vitesse de convergence des polynômes de Bernstein|
+| **213** | Espaces de Hilbert. Exemples d'applications. | Une fonction continue convexe coercive dans un Hilbert admet un minimum | Projection sur un convexe fermé|
+| **214** | Théorème d'inversion locale, théorème des fonctions implicites. Illustration en analyse et en géométrie. | Théorème des extrema liés | Surjectivité de l'exponentielle dans $GL_n(\mathbb C)$|
+| **215** | Applications différentiables définies sur un ouvert de R^n. Exemples et applications. | Theorème des extrema liés | Différentielle du déterminant et application au wronskien|
+| **218** | Formules de Taylor. Exemples et applications. | Méthode de Newton | Méthode de Laplace|
+| **219** | Extremums : existence, caractérisation, recherche. Exemples et applications. | Théorème des extrema liés | Projection sur un convexe fermé|
+| **220** | Illustrer par des exemples la théorie des équations différentielles ordinaires. | Impasse | Impasse|
+| **221** | Équations différentielles linéaires. Systèmes d'équations différentielles linéaires. Exemples et applications. | Impasse | Impasse|
+| **223** | Suites numériques. Convergence, valeur d'adhérence. Exemples et applications. | Méthode de Newton | Lemme de la grenouille et application aux suites récurrentes|
+| **224** | Exemples de développements asymptotiques de suites et de fonctions. | Développement asymptotique de la série harmonique et application | Méthode de Laplace|
+| **226** | Suites vectorielles et réelles définies par une relation de récurrence u(n+1) = f(u(n)). Exemples. Applications à la résolution approchée d'équations. | Méthode de Newton | Processus de Galton-Watson|
+| **228** | Continuité, dérivabilité des fonctions réelles d'une variable réelle. Exemples et applications. | Méthode de Newton | Théorèmes de Heine et de Weierstrass|
+| **229** | Fonctions monotones. Fonctions convexes. Exemples et applications. | Méthode de Newton | Processus de Galton-Watson |
+| **230** | Séries de nombres réels ou complexes. Comportement des restes ou des sommes partielles des séries numériques. Exemples. | Développement asymptotique de la série harmonique et application | Loi Zeta, produit eulérien et divergence des inverses des nombres premiers|
+| **234** | Fonctions et espaces de fonctions Lebesgue-intégrables. | Théorème de Riesz-Fischer | Inversion de Fourier $L^1$|
+| **235** | Problèmes d'interversion de symboles en analyse. | Intégrale de Dirichlet |Inversion de Fourier $L^1$|
+| **236** | Illustrer par des exemples quelques méthodes de calcul d'intégrales de fonctions d'une ou plusieurs variables. | Formule des compléments | Inversion de Fourier $L^1$|
+| **239** | Fonctions définies par une intégrale dépendant d'un paramètre. Exemples et applications. | Intégrale de Dirichlet |Inversion de Fourier $L^1$|
+| **241** | Suites et séries de fonctions. Exemples et contre-exemples. | Théorème d'Abel angulaire et application | Théorème de Weiertrass et vitesse de convergence des polynômes de Bernstein|
+| **243** | Séries entières, propriétés de la somme. Exemples et applications. | Théorème d'Abel angulaire et application | Analycité des fonctions holomorphes|
+| **245** | Fonctions holomorphes et méromorphes sur un ouvert de C. Exemples et applications. | Formule des compléments | Analycité des fonctions holomorphes|
+| **246** | Séries de Fourier. Exemples et applications. | Théorème de Fejer | Théorème de Banach-Steinhaus et série de Fourier divergente|
+| **250** | Transformation de Fourier. Applications. | Théorème de Lévy et TCL | Inversion de Fourier $L^1$|
+| **253** | Utilisation de la notion de convexité en analyse. | Une fonction continue convexe coercive dans un Hilbert admet un minimum | Projection sur un convexe fermé|
+| **261** | Loi d'une variable aléatoire : caractérisations, exemples, applications. | Théorème de Lévy et TCL | Inégalité de Hoeffding et intervalle de confiance|
+| **262** | Convergence d'une suite de variables aléatoires. Théorèmes limites. Exemples et applications. | Théorème de Lévy et TCL | Inégalité de Hoeffding et application à la convergence presque sûre|
+| **264** | Variables aléatoires discrètes. Exemples et applications. | Théorème de Weiertrass et vitesse de convergence des polynômes de Bernstein | Processus de Galton-Watson|
+| **266** | Utilisation de la notion d'indépendance en probabilités. | Loi Zeta, produit eulérien et divergence des inverses des nombres premiers | Inégalité de Hoeffding et application à la convergence presque sûre|
