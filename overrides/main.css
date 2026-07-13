@@ -1,0 +1,8 @@
+/* Permet d'ouvrir le menu déroulant au survol */
+@media screen and (min-width: 76.25em) {
+  .md-nav__item--nested:hover > .md-nav {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+  }
+}
