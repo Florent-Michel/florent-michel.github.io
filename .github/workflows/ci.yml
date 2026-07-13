@@ -18,4 +18,6 @@ jobs:
       - name: Install dependencies
         run: pip install mkdocs-material
       - name: Deploy
-        run: mkdocs gh-deploy --force
+        run: |
+          mkdocs build
+          mkdocs gh-deploy --force
