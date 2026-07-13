@@ -31,3 +31,5 @@ nav:
   - Sites amis: sites_amis.md
 extra:
   generator: false
+extra_css:
+  - stylesheets/extra.css
