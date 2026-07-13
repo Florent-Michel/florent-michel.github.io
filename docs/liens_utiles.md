@@ -9,7 +9,7 @@ Quelques sites de camarades agrégés :
 Quelques documents sur la théorie de Galois supposément accessibles aux élèves de prépa :
 
 * Un [cours](./pdf/galois_mpsi.pdf) qui va droit au but en supposant uniquement le programme de MPSI pour acquis, écrit par Christophe Bertault.
-* Des documents plus longs écrit par Nicolas Tosel avec notamment beaucoup d'exercices (non corrigés): [partie 1](./pdf/galois_1.pdf) [partie 2](./pdf/galois_2.pdf) [partie 3](./pdf/galois_3.pdf).
+* Des documents plus longs écrit par Nicolas Tosel avec notamment beaucoup d'exercices (non corrigés) : [partie 1](./pdf/galois_1.pdf) [partie 2](./pdf/galois_2.pdf) [partie 3](./pdf/galois_3.pdf).
 
 ---
 
