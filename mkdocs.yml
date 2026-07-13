@@ -1,7 +1,7 @@
 site_name: "Florent MICHEL"
 theme:
   name: material
-  logo: images/fourier.jpg
+  logo: images/galois.jpg
   palette:
     # Mode clair
     - media: "(prefers-color-scheme: light)"
