@@ -2,9 +2,17 @@ site_name: "Florent MICHEL"
 theme:
   name: material
   palette:
+    # Mode clair
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Passer au mode sombre
+
     # Mode sombre
     - media: "(prefers-color-scheme: dark)"
-      scheme: default
+      scheme: slate
       primary: indigo
       toggle:
         icon: material/brightness-4
@@ -12,5 +20,6 @@ theme:
   features:
     - navigation.tabs  # Transforme la navigation en onglets en haut
 nav:
+  - Accueil: index.md
   - Galois:
-    - Galois 1: galois/galois1.md
+    - Introduction: galois/galois1.md
