@@ -31,6 +31,7 @@ nav:
     - Vecteurs: seconde/vecteurs.md
   - Colles: colles.md
   - Agrégation: agregation.md
+  - Publications: publications.md
   - Liens utiles: liens_utiles.md
 
 markdown_extensions:
