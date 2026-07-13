@@ -30,6 +30,7 @@ Voici ma liste de développements pour l'agrégation externe de mathématique 20
 | **158** | Groupe opérant sur un ensemble. Exemples. | $exp:S_n(\mathbb R)\to S_n^{++}(\mathbb R)$ est un homéomorphisme | Réduction des endomorphismes normaux|
 | **159** | Groupe opérant sur un ensemble. Exemples. | Réduction de Frobenius | Théorème des extremas liés|
 | **161** | Groupe opérant sur un ensemble. Exemples. | Déterminant de Gram et inégalité de Hadamard | $SO_3(\mathbb R)$ est simple|
+| **162** | Groupe opérant sur un ensemble. Exemples. | Théorème de Householder et convergence des méthodes itératives | La dimension du commutant est au moins n|
 | **170** | Groupe opérant sur un ensemble. Exemples. | Réduction des formes quadratiques | Loi de réciprocité quadratique|
 | **171** | Groupe opérant sur un ensemble. Exemples. | Impasse | Impasse|
 | **181** | Groupe opérant sur un ensemble. Exemples. | Impasse | Impasse|
