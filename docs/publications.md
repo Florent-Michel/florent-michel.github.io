@@ -1,5 +1,3 @@
-## Publications Scientifiques
-
 * Malézieux, B., Michel, F., Moreau, T., & Kowalski, M. (2026). *Where Prior Learning Can and Can’t Work in Unsupervised Inverse Problems*. IEEE Transactions on Signal Processing.
   [DOI / Article](https://ieeexplore.ieee.org/)
 
