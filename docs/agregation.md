@@ -12,10 +12,10 @@ Voici ma liste de développements pour l'agrégation externe de mathématiques 2
 | **108** | Exemples de parties génératrices d'un groupe. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | $A_n$ est simple|
 | **120** | Anneaux Z/nZ. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | Théorème chinois et calcul de $\varphi(n)$|
 | **121** | Nombres premiers. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | Loi de réciprocité quadratique|
-| **122** | Anneaux principaux. Exemples et applications. | Théorème des deux carés | Théorème chinois et calcul de $\varphi(n)$|
+| **122** | Anneaux principaux. Exemples et applications. | Théorème des deux carrés | Théorème chinois et calcul de $\varphi(n)$|
 | **123** | Corps finis. Applications. | Nombre d'irréductibles de $F_q[X]$ | Loi de réciprocité quadratique|
 | **125** | Extensions de corps. Exemples et applications. | Nombre d'irréductibles de $F_q[X]$ | Irréductibilité des polynômes cyclotomiques|
-| **127** | Exemples de nombres remarquables. Exemples d'anneaux de nombres remarquables. Applications. | Théorème des deux carés | Irréductibilité des polynômes cyclotomiques|
+| **127** | Exemples de nombres remarquables. Exemples d'anneaux de nombres remarquables. Applications. | Théorème des deux carrés | Irréductibilité des polynômes cyclotomiques|
 | **141** | Polynômes irréductibles à une indéterminée. Corps de rupture. Exemples et applications. | Nombre d'irréductibles de $F_q[X]$ | Irréductibilité des polynômes cyclotomiques|
 | **142** | PGCD et PPCM, algorithmes de calcul. Applications. | 26 est l'unique entier entre un cube et un carré | Théorème chinois et calcul de $\varphi(n)$|
 | **144** | Racines d'un polynôme. Fonctions symétriques élémentaires. Exemples et applications. | Théorème de Kronecker et sous-groupes finis de $GL_n(\mathbb Z)$ | Irréductibilité des polynômes cyclotomiques|
@@ -52,7 +52,7 @@ Voici ma liste de développements pour l'agrégation externe de mathématiques 2
 | **214** | Théorème d'inversion locale, théorème des fonctions implicites. Illustration en analyse et en géométrie. | Théorème des extrema liés | Surjectivité de l'exponentielle dans $GL_n(\mathbb C)$|
 | **215** | Applications différentiables définies sur un ouvert de R^n. Exemples et applications. | Theorème des extrema liés | Différentielle du déterminant et application au wronskien|
 | **218** | Formules de Taylor. Exemples et applications. | Méthode de Newton | Méthode de Laplace|
-| **219** | Extremums : existence, caractérisation, recherche. Exemples et applications. | Théorème des extrema liés | Projection sur un convexe fermé|
+| **219** | Extremums : existence, actérisation, recherche. Exemples et applications. | Théorème des extrema liés | Projection sur un convexe fermé|
 | **220** | Illustrer par des exemples la théorie des équations différentielles ordinaires. | Impasse | Impasse|
 | **221** | Équations différentielles linéaires. Systèmes d'équations différentielles linéaires. Exemples et applications. | Impasse | Impasse|
 | **223** | Suites numériques. Convergence, valeur d'adhérence. Exemples et applications. | Méthode de Newton | Lemme de la grenouille et application aux suites récurrentes|
@@ -71,7 +71,7 @@ Voici ma liste de développements pour l'agrégation externe de mathématiques 2
 | **246** | Séries de Fourier. Exemples et applications. | Théorème de Fejer | Théorème de Banach-Steinhaus et série de Fourier divergente|
 | **250** | Transformation de Fourier. Applications. | Théorème de Lévy et TCL | Inversion de Fourier $L^1$|
 | **253** | Utilisation de la notion de convexité en analyse. | Une fonction continue convexe coercive dans un Hilbert admet un minimum | Projection sur un convexe fermé|
-| **261** | Loi d'une variable aléatoire : caractérisations, exemples, applications. | Théorème de Lévy et TCL | Inégalité de Hoeffding et intervalle de confiance|
+| **261** | Loi d'une variable aléatoire : actérisations, exemples, applications. | Théorème de Lévy et TCL | Inégalité de Hoeffding et intervalle de confiance|
 | **262** | Convergence d'une suite de variables aléatoires. Théorèmes limites. Exemples et applications. | Théorème de Lévy et TCL | Inégalité de Hoeffding et application à la convergence presque sûre|
 | **264** | Variables aléatoires discrètes. Exemples et applications. | Théorème de Weiertrass et vitesse de convergence des polynômes de Bernstein | Processus de Galton-Watson|
 | **266** | Utilisation de la notion d'indépendance en probabilités. | Loi Zeta, produit eulérien et divergence des inverses des nombres premiers | Inégalité de Hoeffding et application à la convergence presque sûre|
