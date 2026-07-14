@@ -1,0 +1,30 @@
+/* Agrandi le logo dans la barre de navigation */
+.md-header__button.md-logo img, 
+.md-header__button.md-logo svg {
+    height: 80px; /* Ajustez cette valeur (par défaut, elle est de 24px) */
+    width: auto;  /* Conserve les proportions d'origine */
+}
+
+/* Optionnel : Supprime les marges excessives si le logo est très grand */
+.md-header__button.md-logo {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+/* Force le conteneur du tableau à prendre toute la largeur */
+.md-typeset__table {
+    width: 100%;
+}
+
+/* Force l'élément table lui-même à s'étirer sur 100% de son conteneur */
+.md-typeset__table table:not([class]) {
+    display: table;
+    width: 100%;
+}
+
+/* Augmente la largeur maximale de la grille de contenu (par défaut ~1200px) */
+.md-grid {
+    max-width: 85rem; /* Augmentez cette valeur selon vos besoins (ex: 90rem, 100rem ou 100%) */
+}
