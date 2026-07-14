@@ -1,7 +1,7 @@
 Quelques sites de camarades agrégés :
 
 * Site de [Mathilde Bocquet](https://mathildebocquet.github.io/mathildebocquet/), colleuse en MPSI/MP* au lycée Condorcet.
-* Site de [Louis Lascaud](https://louis-lascaud.github.io/l-lscd-mathematiques/), doctorant en mathématiques à Limoges.
+* Site de [Louis Lascaud](https://louis-lascaud.github.io), doctorant en mathématiques à Limoges.
 * Site de [Romain Delaunay](https://delaunay-romain.github.io), algébriste du plateau de Saclay.
 
 ---
